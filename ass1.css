@@ -10,7 +10,7 @@ body {
 .column {
     float: left;
     padding: 10px;
-    height : 43em;
+    /*height : 43em;*/
   }
   
   .left {
@@ -36,6 +36,10 @@ body {
       padding: 5px;
       margin: 2px;
       background-color: rgb(5, 179, 77);
+  }
+  .home
+  {
+    background-color: bisque !important;
   }
   .header{
     border-bottom: 5px solid black ;
@@ -90,7 +94,7 @@ body {
   .dropdown-content a {
     color: black;
     padding: 12px 16px;
-    background-color: coral;
+    background-color:bisque;
     display: block;
     text-align: left;
   }
